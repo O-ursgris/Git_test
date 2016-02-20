@@ -16,7 +16,11 @@ body{
      align-items: center;
      position: absolute;
      top: 40%;
-     box-shadow: 0px 10px 70px black
+     box-shadow: 0px 10px 70px black;
+     -webkit-box-shadow: 0px 10px 70px black;
+     -o-box-shadow: 0px 10px 70px black;
+     -moz-box-shadow: 0px 10px 70px black;
+     
 }
 
 h1{
